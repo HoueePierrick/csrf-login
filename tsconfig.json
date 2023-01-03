@@ -10,7 +10,8 @@
     "outDir": "./dist/",
     "noImplicitAny": true,
     "jsx": "react",
-    "allowJs": true
+    "allowJs": true,
+    "sourceMap": true
   },
   "devDependencies": {
     "@types/node": "^18.11.9"
